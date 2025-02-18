@@ -1,0 +1,12 @@
+[user]
+name = "Hector Crean"
+email = "hectorcrean@gmail.com"
+
+
+
+[[projects]]
+name = "Timex"
+code = "TIMEX_001"
+description = "A time tracking tool"
+git_url = "/Users/hectorcrean/rust/timex"
+
