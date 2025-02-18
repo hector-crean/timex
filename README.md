@@ -6,7 +6,7 @@ A powerful, AI-driven tool that analyzes git commits and automatically generates
 
 ## 📌 Overview
 
-Timex is a tool designed to streamline time tracking for developers. By analyzing **git commit history**, it generates **AI-powered summaries** of work done and integrates with **time tracking systems** for automated timesheet submissions.
+Timex is a tool designed to streamline time tracking for developers. By analsing **git commit history**, it generates **AI-powered summaries** of work done and aims to integrate with **time tracking systems** for automated timesheet submissions.
 
 
 ## 🛠 Installation
